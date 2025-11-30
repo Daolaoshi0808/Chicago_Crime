@@ -44,7 +44,7 @@ Chicago Crime Data (8M+ events)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 chicago-crime-prediction/
@@ -102,7 +102,7 @@ spark-submit bias_fairness_analysis.py
 
 ---
 
-## 📊 Analysis Modules
+## Analysis Modules
 
 ### 1. Temporal Analysis (`temporal_analysis.py`)
 
